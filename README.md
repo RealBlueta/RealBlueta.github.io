@@ -1,2 +1,1 @@
-# realblueta.github.io
-My Website.
+[Click Me!](https://realblueta.github.io/)
